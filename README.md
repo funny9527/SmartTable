@@ -51,5 +51,5 @@ public void previous();
 
 ![image](https://github.com/funny9527/SmartTable/blob/master/device-2018-07-14-104216.png)
 ![image](https://github.com/funny9527/SmartTable/blob/master/device-2018-07-14-104249.png)
-![image](https://github.com/funny9527/SmartTable/blob/master/device-2018-07-14-104306.png)
+![image](https://github.com/funny9527/SmartTable/blob/master/device-2018-07-14-104309.png)
 
